@@ -1,0 +1,2 @@
+To compile and run my program correctly, please put the source code file(ID3.py), training data set(e.g. train.dat) and test data set(e.g. test.dat) in the same directory. And type "python NeuralNetwork.py train.dat test.dat learningrate numberofiteration" on the command line. The form of data file should be strictly as same as that of the data file downloaded from the course homepage. The learning rate should be a float between 0 and 1. The number of iteration should be a integer greater than 0.
+The program is developed using Python 2.7 and based on Ubuntu 14.04.
