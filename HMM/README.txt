@@ -1,0 +1,2 @@
+To compile and run my program correctly, please put the source file(HMM.py), model parameters file(e.g. model.dat) and test data set(e.g. test.dat) in the same directory. And type "python HMM.py model.dat test.dat" on the command line. The form of data file should be strictly as same as that of the data file downloaded from the course homepage.
+The program is developed using Python 2.7 and based on Ubuntu 14.04.
