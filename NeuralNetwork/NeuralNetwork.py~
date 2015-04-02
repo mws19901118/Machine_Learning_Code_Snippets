@@ -1,5 +1,5 @@
 '''
-Created on Jan 25, 2015
+Created on Feb 26, 2015
 @summary: This program is implementation of  a single layer perceptron with sigmoid function algorithm for binary classification with all attributes have categorical and no-missing values.
 @input: 4 command_line arguments which should be .dat files in the same directory with this python source code. The first argument indicates the name of train data file while the second argument indicates the name of test data file. The headers of both data should be exactly the same.
 @output: Print the structure of decision tree as well as accuracy to the command line. 

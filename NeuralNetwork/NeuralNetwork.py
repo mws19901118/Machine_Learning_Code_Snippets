@@ -102,7 +102,7 @@ if __name__ == '__main__':
             label=1
         else:
             label=0
-        delta=rate*(train[index][-1]-label)*output*(1-output)       #Calculate delta.
+        delta=rate*(train[index][-1]-output)*output*(1-output)       #Calculate delta.
         for j in range(m-1):
             weight[j]+=delta*train[index][j]                                              #Upgrade weights.
         weight[-1]+=delta*(-1)
