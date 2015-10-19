@@ -1,1 +1,2 @@
-# Machine_Learning_Code_Snippets
+Assignments of Machine Learning
+=======
